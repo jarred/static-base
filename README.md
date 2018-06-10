@@ -4,9 +4,10 @@ Based on the [Gatsby + Netlify CMS Starter](https://github.com/AustinGreen/gatsb
 
 ## features
 
-* react + gatsby
+* gatsby w markdown via graphQL
 * netlify CMS
 * netlify lambda functions
+* .env for secrets
 
 ## installation
 
