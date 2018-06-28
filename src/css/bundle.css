@@ -991,10 +991,6 @@ table {
   background-color: #ffebef;
 }
 
-.bg-derpy {
-  background-color: #f30;
-}
-
 .hover\:bg-transparent:hover {
   background-color: transparent;
 }
@@ -1287,10 +1283,6 @@ table {
   background-color: #ffebef;
 }
 
-.hover\:bg-derpy:hover {
-  background-color: #f30;
-}
-
 .focus\:bg-transparent:focus {
   background-color: transparent;
 }
@@ -1581,10 +1573,6 @@ table {
 
 .focus\:bg-pink-lightest:focus {
   background-color: #ffebef;
-}
-
-.focus\:bg-derpy:focus {
-  background-color: #f30;
 }
 
 .bg-bottom {
@@ -1951,10 +1939,6 @@ table {
   border-color: #ffebef;
 }
 
-.border-derpy {
-  border-color: #f30;
-}
-
 .hover\:border-transparent:hover {
   border-color: transparent;
 }
@@ -2247,10 +2231,6 @@ table {
   border-color: #ffebef;
 }
 
-.hover\:border-derpy:hover {
-  border-color: #f30;
-}
-
 .focus\:border-transparent:focus {
   border-color: transparent;
 }
@@ -2541,10 +2521,6 @@ table {
 
 .focus\:border-pink-lightest:focus {
   border-color: #ffebef;
-}
-
-.focus\:border-derpy:focus {
-  border-color: #f30;
 }
 
 .rounded-none {
@@ -5293,10 +5269,6 @@ table {
   color: #ffebef;
 }
 
-.text-derpy {
-  color: #f30;
-}
-
 .hover\:text-transparent:hover {
   color: transparent;
 }
@@ -5589,10 +5561,6 @@ table {
   color: #ffebef;
 }
 
-.hover\:text-derpy:hover {
-  color: #f30;
-}
-
 .focus\:text-transparent:focus {
   color: transparent;
 }
@@ -5883,10 +5851,6 @@ table {
 
 .focus\:text-pink-lightest:focus {
   color: #ffebef;
-}
-
-.focus\:text-derpy:focus {
-  color: #f30;
 }
 
 .text-xs {
@@ -6622,10 +6586,6 @@ table {
     background-color: #ffebef;
   }
 
-  .sm\:bg-derpy {
-    background-color: #f30;
-  }
-
   .sm\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -6918,10 +6878,6 @@ table {
     background-color: #ffebef;
   }
 
-  .sm\:hover\:bg-derpy:hover {
-    background-color: #f30;
-  }
-
   .sm\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -7212,10 +7168,6 @@ table {
 
   .sm\:focus\:bg-pink-lightest:focus {
     background-color: #ffebef;
-  }
-
-  .sm\:focus\:bg-derpy:focus {
-    background-color: #f30;
   }
 
   .sm\:bg-bottom {
@@ -7574,10 +7526,6 @@ table {
     border-color: #ffebef;
   }
 
-  .sm\:border-derpy {
-    border-color: #f30;
-  }
-
   .sm\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -7870,10 +7818,6 @@ table {
     border-color: #ffebef;
   }
 
-  .sm\:hover\:border-derpy:hover {
-    border-color: #f30;
-  }
-
   .sm\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -8164,10 +8108,6 @@ table {
 
   .sm\:focus\:border-pink-lightest:focus {
     border-color: #ffebef;
-  }
-
-  .sm\:focus\:border-derpy:focus {
-    border-color: #f30;
   }
 
   .sm\:rounded-none {
@@ -10900,10 +10840,6 @@ table {
     color: #ffebef;
   }
 
-  .sm\:text-derpy {
-    color: #f30;
-  }
-
   .sm\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -11196,10 +11132,6 @@ table {
     color: #ffebef;
   }
 
-  .sm\:hover\:text-derpy:hover {
-    color: #f30;
-  }
-
   .sm\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -11490,10 +11422,6 @@ table {
 
   .sm\:focus\:text-pink-lightest:focus {
     color: #ffebef;
-  }
-
-  .sm\:focus\:text-derpy:focus {
-    color: #f30;
   }
 
   .sm\:text-xs {
@@ -12215,10 +12143,6 @@ table {
     background-color: #ffebef;
   }
 
-  .md\:bg-derpy {
-    background-color: #f30;
-  }
-
   .md\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -12511,10 +12435,6 @@ table {
     background-color: #ffebef;
   }
 
-  .md\:hover\:bg-derpy:hover {
-    background-color: #f30;
-  }
-
   .md\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -12805,10 +12725,6 @@ table {
 
   .md\:focus\:bg-pink-lightest:focus {
     background-color: #ffebef;
-  }
-
-  .md\:focus\:bg-derpy:focus {
-    background-color: #f30;
   }
 
   .md\:bg-bottom {
@@ -13167,10 +13083,6 @@ table {
     border-color: #ffebef;
   }
 
-  .md\:border-derpy {
-    border-color: #f30;
-  }
-
   .md\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -13463,10 +13375,6 @@ table {
     border-color: #ffebef;
   }
 
-  .md\:hover\:border-derpy:hover {
-    border-color: #f30;
-  }
-
   .md\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -13757,10 +13665,6 @@ table {
 
   .md\:focus\:border-pink-lightest:focus {
     border-color: #ffebef;
-  }
-
-  .md\:focus\:border-derpy:focus {
-    border-color: #f30;
   }
 
   .md\:rounded-none {
@@ -16493,10 +16397,6 @@ table {
     color: #ffebef;
   }
 
-  .md\:text-derpy {
-    color: #f30;
-  }
-
   .md\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -16789,10 +16689,6 @@ table {
     color: #ffebef;
   }
 
-  .md\:hover\:text-derpy:hover {
-    color: #f30;
-  }
-
   .md\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -17083,10 +16979,6 @@ table {
 
   .md\:focus\:text-pink-lightest:focus {
     color: #ffebef;
-  }
-
-  .md\:focus\:text-derpy:focus {
-    color: #f30;
   }
 
   .md\:text-xs {
@@ -17808,10 +17700,6 @@ table {
     background-color: #ffebef;
   }
 
-  .lg\:bg-derpy {
-    background-color: #f30;
-  }
-
   .lg\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -18104,10 +17992,6 @@ table {
     background-color: #ffebef;
   }
 
-  .lg\:hover\:bg-derpy:hover {
-    background-color: #f30;
-  }
-
   .lg\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -18398,10 +18282,6 @@ table {
 
   .lg\:focus\:bg-pink-lightest:focus {
     background-color: #ffebef;
-  }
-
-  .lg\:focus\:bg-derpy:focus {
-    background-color: #f30;
   }
 
   .lg\:bg-bottom {
@@ -18760,10 +18640,6 @@ table {
     border-color: #ffebef;
   }
 
-  .lg\:border-derpy {
-    border-color: #f30;
-  }
-
   .lg\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -19056,10 +18932,6 @@ table {
     border-color: #ffebef;
   }
 
-  .lg\:hover\:border-derpy:hover {
-    border-color: #f30;
-  }
-
   .lg\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -19350,10 +19222,6 @@ table {
 
   .lg\:focus\:border-pink-lightest:focus {
     border-color: #ffebef;
-  }
-
-  .lg\:focus\:border-derpy:focus {
-    border-color: #f30;
   }
 
   .lg\:rounded-none {
@@ -22086,10 +21954,6 @@ table {
     color: #ffebef;
   }
 
-  .lg\:text-derpy {
-    color: #f30;
-  }
-
   .lg\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -22382,10 +22246,6 @@ table {
     color: #ffebef;
   }
 
-  .lg\:hover\:text-derpy:hover {
-    color: #f30;
-  }
-
   .lg\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -22676,10 +22536,6 @@ table {
 
   .lg\:focus\:text-pink-lightest:focus {
     color: #ffebef;
-  }
-
-  .lg\:focus\:text-derpy:focus {
-    color: #f30;
   }
 
   .lg\:text-xs {
@@ -23401,10 +23257,6 @@ table {
     background-color: #ffebef;
   }
 
-  .xl\:bg-derpy {
-    background-color: #f30;
-  }
-
   .xl\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -23697,10 +23549,6 @@ table {
     background-color: #ffebef;
   }
 
-  .xl\:hover\:bg-derpy:hover {
-    background-color: #f30;
-  }
-
   .xl\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -23991,10 +23839,6 @@ table {
 
   .xl\:focus\:bg-pink-lightest:focus {
     background-color: #ffebef;
-  }
-
-  .xl\:focus\:bg-derpy:focus {
-    background-color: #f30;
   }
 
   .xl\:bg-bottom {
@@ -24353,10 +24197,6 @@ table {
     border-color: #ffebef;
   }
 
-  .xl\:border-derpy {
-    border-color: #f30;
-  }
-
   .xl\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -24649,10 +24489,6 @@ table {
     border-color: #ffebef;
   }
 
-  .xl\:hover\:border-derpy:hover {
-    border-color: #f30;
-  }
-
   .xl\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -24943,10 +24779,6 @@ table {
 
   .xl\:focus\:border-pink-lightest:focus {
     border-color: #ffebef;
-  }
-
-  .xl\:focus\:border-derpy:focus {
-    border-color: #f30;
   }
 
   .xl\:rounded-none {
@@ -27679,10 +27511,6 @@ table {
     color: #ffebef;
   }
 
-  .xl\:text-derpy {
-    color: #f30;
-  }
-
   .xl\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -27975,10 +27803,6 @@ table {
     color: #ffebef;
   }
 
-  .xl\:hover\:text-derpy:hover {
-    color: #f30;
-  }
-
   .xl\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -28269,10 +28093,6 @@ table {
 
   .xl\:focus\:text-pink-lightest:focus {
     color: #ffebef;
-  }
-
-  .xl\:focus\:text-derpy:focus {
-    color: #f30;
   }
 
   .xl\:text-xs {
